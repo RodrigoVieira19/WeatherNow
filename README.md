@@ -9,5 +9,5 @@ Link On-line: https://rodrigovieira19.github.io/WeatherNow/
 ## Credits
 
 - API: openweathermap.org
-- Videos: videvo.net
+- Background Videos: videvo.net
 - "Stock footage provided by Videvo, Beachfront and Daha, downloaded from www.videvo.net"
