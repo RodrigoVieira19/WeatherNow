@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>WeatherNow</title>
+</head>
+<body>
+
+    <video autoplay muted loop id="myVideo">
+        <source id="video2source" src="./videos/clearSky.mp4" type="video/mp4">
+      </video>
+
+    <div class="country-info">
+        <h1 id="name"></h1>
+        <dv class="flex">
+            <h2 id="temperature"></h2>
+            <p id="description"></p>
+        </dv>
+
+        <div class="input">
+            <input type="text" placeholder="Enter a city" class="input_text">
+            <input type="submit" value="Go" id="submit">
+        </div>
+    </div>
+    
+    
+    <script src="./js/script.js"></script>
+</body>
+</html>
